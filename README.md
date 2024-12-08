@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+만들 구조와 순서 적어보고 하나씩 생각하고 찾아보면서 최대한 만들 수 있는 부분까지 해보았습니다.
+혼자 적어보는건 아직 어려운 부분이 많아서 문법적으로 암기와 이해가 더 필요한 것 같습니다.
+test 에러부분도 어디에서 내용 추가나 수정을 해야할지 모르겠어서 그대로 두었습니다.
