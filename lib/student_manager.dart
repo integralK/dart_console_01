@@ -3,7 +3,7 @@ import 'package:dart_console_01/student.dart';
 
 // 학생관리프로그램 작동시킨다
 void runStudentManager() {
-  List<Student> student = []; // 학생리스트
+  List<Student> students = []; // 학생리스트
 
   while (true) {
     // 선택지 보여주고 선택하게 반복 만든다
